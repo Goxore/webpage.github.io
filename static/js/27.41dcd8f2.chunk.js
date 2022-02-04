@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpage_github_io=self.webpackChunkwebpage_github_io||[]).push([[27],{27:function(e,i,s){e.exports=s.p+"static/media/git-icon-svgrepo-com.fd381642a8b14fec88b8.svg"}}]);

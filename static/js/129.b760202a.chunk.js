@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpage_github_io=self.webpackChunkwebpage_github_io||[]).push([[129],{4129:function(e,a,s){e.exports=s.p+"static/media/telegram-svgrepo-com(1).8c45a8e3d6eb06eaddec.svg"}}]);
