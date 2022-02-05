@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpage_github_io=self.webpackChunkwebpage_github_io||[]).push([[820],{820:function(e,i,b){e.exports=b.p+"static/media/whyiusevim.c32967d6ce76bd43a4b7.md"}}]);

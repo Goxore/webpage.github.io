@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebpage_github_io=self.webpackChunkwebpage_github_io||[]).push([[896],{3896:function(e,i,a){e.exports=a.p+"static/media/gmail.0287b363a72d3c0f445c.svg"}}]);
